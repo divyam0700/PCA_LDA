@@ -2,10 +2,11 @@
 """
 This code illustrates the implementation of LDA using the iris dataset
 
-Created on Tue Nov  6 15:02:10 2018
+Created on Tue June  1 15:02:10 2021
 
-@author: Benjamin O. Tayo
+@author: Divyam
 """
+
 #Import necessary libraries
 import numpy as np
 import pandas as pd
@@ -15,7 +16,7 @@ np.set_printoptions(precision=4)
 
 
 #Read dataset
-file_path = "https://raw.githubusercontent.com/bot13956/linear-discriminant-analysis-iris-dataset/master/iris.data.csv"
+file_path = "https://github.com/divyam0700/PCA_LDA/blob/master/Lda_iris_dataset/iris.data.csv"
 df = pd.read_csv(file_path, header=None)
 df.head()
 
