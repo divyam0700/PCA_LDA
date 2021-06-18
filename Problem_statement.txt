@@ -7,4 +7,4 @@ Show the output scatter plot, and note the segregation in the 1D PCA space
 
 c) Perform LDA on the case, where segregation using PCA is not good ((project on a single LDA component)
 
-Show the output scatter plot, and note the segregation in the 1D LDA space
+(Show the output scatter plot, and note the segregation in the 1D LDA space).
