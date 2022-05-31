@@ -1,3 +1,5 @@
+Updated statement 
+
 Given two files of the 2D data, for each file:
 
 a) Plot the scatter plot
